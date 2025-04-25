@@ -42,6 +42,7 @@ The app uses a cleaned dataset (`Clean_Dataset.csv`) with the following columns:
 git clone https://github.com/your-username/ai-flight-price-chatbot.git
 cd ai-flight-price-chatbot
 
+---
 
 ### 2. Install Required Libraries
 pip install -r requirements.txt
